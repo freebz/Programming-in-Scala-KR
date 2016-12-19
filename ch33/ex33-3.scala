@@ -1,0 +1,16 @@
+// 리스트 33.3  JSON 형식의 데이터
+
+{
+  "address book": {
+    "name": "John Smith",
+    "address": {
+      "street": "10 Market Street",
+      "city"  : "San Francisco, CA",
+      "zip"   : 94111
+    },
+    "phone numbers": [
+      "408 338-4238",
+      "408 111-6892"
+    ]
+  }
+}
